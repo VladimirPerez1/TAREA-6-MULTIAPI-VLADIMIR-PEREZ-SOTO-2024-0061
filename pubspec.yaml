@@ -1,5 +1,5 @@
 name: tarea_multiapi
-description: "Aplicación Flutter multi-vista que consume varias APIs públicas (ITLA)."
+description: "Aplicacion Flutter multiapi VLADIMIR PEREZ SOTO 2024-0061"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -26,9 +26,6 @@ flutter:
   assets:
     - assets/images/
 
-# Configuración para generar el ícono de la app a partir de tu foto.
-# 1) Coloca tu foto en assets/images/app_icon.png (cuadrada, 1024x1024 recomendado)
-# 2) Ejecuta: flutter pub run flutter_launcher_icons
 flutter_launcher_icons:
   android: true
   ios: true
